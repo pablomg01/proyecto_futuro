@@ -11,7 +11,7 @@ package proyecto_futuro;
  */
 public class Proyecto_Futuro {
 //creamos metodo Veredicto    
-public static String Veredicto(String Valor1,String Valor2){
+private static String Veredicto(String Valor1,String Valor2){
     if(Valor1.equals(Valor2))
         return "Deberias estudiar mas tiempo...";    
        
