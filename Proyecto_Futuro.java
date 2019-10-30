@@ -7,7 +7,7 @@ package proyecto_futuro;
 
 /**
  *
- * @author IEUser
+ * @author Pablo Moran Garcia
  */
 public class Proyecto_Futuro {
 //creamos metodo Veredicto    
